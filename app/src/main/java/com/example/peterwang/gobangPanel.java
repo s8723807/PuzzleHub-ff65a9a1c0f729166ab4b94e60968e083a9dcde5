@@ -308,3 +308,4 @@ public class gobangPanel extends View {
         super.onRestoreInstanceState(state);
     }
 }
+/
